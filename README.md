@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <a href="https://html.com/"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" width="50" height="50"></a>
 <a href="https://getbootstrap.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="50" height="50"></a>
 <a href="https://www.w3schools.com/css/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="50" height="50"></a>
-<a href="https://www.w3schools.com/js/"><img src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fwww.freepnglogos.com%2Fpics%2Fjavascript&psig=AOvVaw2zrB8j8z1ow8jGSMthCZUK&ust=1669490164194000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPie_5OGyvsCFQAAAAAdAAAAABAE" width="50" height="50"></a>
+<a href="https://www.w3schools.com/js/"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="50" height="50"></a>
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="50" height="50"></a>
 
 
