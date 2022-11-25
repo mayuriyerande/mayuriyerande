@@ -1,4 +1,5 @@
 <h1 align="center"> Hi I'm Mayuri 👋 </h1>
+<h3 align="center"> Student at VESIT(BE - Information Technology) </h3>
 
 <!--
 **mayuriyerande123/mayuriyerande123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+😄 Pronouns: she/her
+📫 How to reach me: (mayuriyerande@gmail.com)
 <h4> Connect with me</h4>
 <a href="https://www.linkedin.com/in/mayuri-yerande-527327233l"><img src="https://iconarchive.com/download/i82926/limav/flat-gradient-social/Linkedin.ico" width="50" height="50"></a>
 
