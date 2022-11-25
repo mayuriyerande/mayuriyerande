@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h4> Connect with me</h4>
-<a href="https://www.linkedin.com/in/mayuri-yerande-527327233l"><img src="https://iconarchive.com/download/i82926/limav/flat-gradient-social/Linkedin.ico"></a>
+<a href="https://www.linkedin.com/in/mayuri-yerande-527327233l"><img src="https://iconarchive.com/download/i82926/limav/flat-gradient-social/Linkedin.ico" width="50" height="50"></a>
 
