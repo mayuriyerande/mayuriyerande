@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 
 <h4> Connect with me</h4>
 <a href="https://www.cprogramming.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="50" height="50"></a>
-<a href="https://www.cprogramming.com/"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="50" height="50"></a>
+<a href="https://www.cprogramming.com/"><img src="https://preview.redd.it/31b2ii8hchi31.jpg?auto=webp&s=309fe75e96212cf42c4120ca5adedaef52c41e01" width="50" height="50"></a>
 <a href="https://html.com/"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" width="50" height="50"></a>
 <a href="https://getbootstrap.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="50" height="50"></a>
 <a href="https://www.w3schools.com/css/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="50" height="50"></a>
-<a href="https://www.w3schools.com/js/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAlz-3WQuAmBOv-7B0UoXAoAFoOXYISdGNzjd1R9Ui&s" width="50" height="50"></a>
-<a href="https://www.python.org/"><img src="https://qph.cf2.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc" width="50" height="50"></a>
+<a href="https://www.w3schools.com/js/"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepnglogos.com%2Fpics%2Fjavascript&psig=AOvVaw2zrB8j8z1ow8jGSMthCZUK&ust=1669490164194000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPie_5OGyvsCFQAAAAAdAAAAABAE" width="50" height="50"></a>
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="50" height="50"></a>
 <a href=""><img src="" width="50" height="50"></a>
 <a href=""><img src="" width="50" height="50"></a>
 
