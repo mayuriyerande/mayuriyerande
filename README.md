@@ -29,12 +29,10 @@ Here are some ideas to get you started:
 <a href="https://www.canva.com/"><img src="https://cdn-images-1.medium.com/max/1200/1*A6kkoOVJVpXPWewg8axc5w.png" width="50" height="50"></a>
 <a href="https://www.djangoproject.com/"><img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" width="65" height="50"></a>
 <a href="https://www.tableau.com/"><img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" width="55" height="50"></a>
-\
-\
-![Hello There](https://media.giphy.com/media/1phZ3Ie2NmsfmAdNtf/giphy.gif)
 
-\
-\
+
+<img src="https://media.giphy.com/media/1phZ3Ie2NmsfmAdNtf/giphy.gif" width="100" height="100" />
+
 <h4> Connect with me</h4>
 <a href="https://www.linkedin.com/in/mayuri-yerande-527327233l"><img src="https://iconarchive.com/download/i82926/limav/flat-gradient-social/Linkedin.ico" width="50" height="50">
 <a href="https://www.instagram.com/mayuri.yerande/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="50" height="50"></a>
