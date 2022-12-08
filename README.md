@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 <a href="https://www.djangoproject.com/"><img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" width="65" height="50"></a>
 <a href="https://www.tableau.com/"><img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" width="55" height="50"></a>
 
-
-<img align="right" src="https://media.giphy.com/media/1phZ3Ie2NmsfmAdNtf/giphy.gif" width="400" height="400" />
+<br>
+<img align="right" src="https://media.giphy.com/media/1phZ3Ie2NmsfmAdNtf/giphy.gif" width="300" height="300" />
 
 <h4> Connect with me</h4>
 <a href="https://www.linkedin.com/in/mayuri-yerande-527327233l"><img src="https://iconarchive.com/download/i82926/limav/flat-gradient-social/Linkedin.ico" width="50" height="50">
