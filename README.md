@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <a href="https://www.djangoproject.com/"><img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" width="65" height="50"></a>
 <a href="https://www.tableau.com/"><img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" width="55" height="50"></a>
 
-
+![](https://github.com/https://media.giphy.com/media/1phZ3Ie2NmsfmAdNtf/giphy.gif)
 
 
 <h4> Connect with me</h4>
