@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <a href="https://www.tableau.com/"><img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" width="55" height="50"></a>
 
 
-![](https://github.com/mayuriyerande/https://classroomclipart.com/images/gallery/Animations/Education_School/girl-at-desk-writing-animated.gif)
+
 
 <h4> Connect with me</h4>
 <a href="https://www.linkedin.com/in/mayuri-yerande-527327233l"><img src="https://iconarchive.com/download/i82926/limav/flat-gradient-social/Linkedin.ico" width="50" height="50">
