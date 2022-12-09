@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 😄 Pronouns: she/her \
 📫 How to reach me: mayuriyerande@gmail.com
-
+🌱 I’m currently learning Flutter
 ----
 
 <h4> Languages and Tools </h4>
