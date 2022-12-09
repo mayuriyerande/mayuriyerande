@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 😄 Pronouns: she/her \
 📫 How to reach me: mayuriyerande@gmail.com
 
+<!--
+-->
 <h4> Languages and Tools </h4>
 <a href="https://www.cprogramming.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="50" height="50"></a>
 <a href="https://www.cprogramming.com/"><img src="https://preview.redd.it/31b2ii8hchi31.jpg?auto=webp&s=309fe75e96212cf42c4120ca5adedaef52c41e01" width="50" height="50"></a>
