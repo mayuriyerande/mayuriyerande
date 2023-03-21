@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 😄 Pronouns: she/her \
-📫 How to reach me: mayuriyerande@gmail.com \
+📫 How to reach me: mayuriyerande@gmail.com 
 
 
 ----
