@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h5 align="center"> Good to see you here ✨  </h5> 
+<h4 align="center"> Good to see you here ✨  </h4> 
 <br>
-😄 Pronouns: she/her \
+<br>
+😄 Pronouns: she/her 
+<br>
 📫 How to reach me: mayuriyerande@gmail.com 
 
 
