@@ -23,7 +23,8 @@ Hello there, good to see you here ✨
 
 ----
 
- <h4> Languages </h4>
+ <h4> Languages </h4> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <h4> Frameworks </h4>
 <a href="https://www.cprogramming.com/"><img src="https://preview.redd.it/31b2ii8hchi31.jpg?auto=webp&s=309fe75e96212cf42c4120ca5adedaef52c41e01" width="50" height="50"></a>
 <a href="https://html.com/"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" width="50" height="50"></a>
 <a href="https://getbootstrap.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="50" height="50"></a>
@@ -35,7 +36,7 @@ Hello there, good to see you here ✨
 <a href="https://www.djangoproject.com/"><img src="https://miro.medium.com/v2/resize:fit:438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" height="50"></a>
 <br>
 <br>
- <h4> Frameworks </h4>
+
 
 
 
