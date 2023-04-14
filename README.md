@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Mayuri 👋 </h1>
-<h3 align="center"> Student at VESIT(BE - Information Technology) </h3>
+<h3 align="center"> Information Technology </h3>
 
 <!--
 **mayuriyerande123/mayuriyerande123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello there, good to see you here ✨ 
+<h5 align="center"> Good to see you here ✨  </h5> 
 <br>
 😄 Pronouns: she/her \
 📫 How to reach me: mayuriyerande@gmail.com 
