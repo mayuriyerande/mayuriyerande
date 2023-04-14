@@ -44,6 +44,7 @@ Hello there, good to see you here ✨
 <br>
 <h4> Devops </h4>
 ●Git and Github
+<br>
 ●AWS: EC2,CODEPIPELINE,S3
 <br>
 <br>
