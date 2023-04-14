@@ -37,10 +37,15 @@ Here are some ideas to get you started:
 <br>
 <br>
 <h4> Databases </h4>
-<img src="https://miro.medium.com/v2/resize:fit:438/1*0G5zu7CnXdMT9pGbYUTQLQ.png](https://w7.pngwing.com/pngs/384/848/png-transparent-mysql-php-database-javascript-ajax-carnifex-blue-text-logo.png" height="50">
-<img src="[https://miro.medium.com/v2/resize:fit:438/1*0G5zu7CnXdMT9pGbYUTQLQ.png](https://w7.pngwing.com/pngs/384/848/png-transparent-mysql-php-database-javascript-ajax-carnifex-blue-text-logo.png](https://img1.pnghut.com/17/9/6/NXj2z95E2B/logo-mysql-mobile-app-development-sqlite-android-software.jpg)" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/2560px-SQLite370.svg.png" height="50">
+<br>
+<br>
 <h4> Devops </h4>
-
+<img src="[https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png](https://www.freecodecamp.org/news/content/images/2022/07/git-github.png)" height="50">
+<img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/2560px-SQLite370.svg.png](https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png)" height="50">
+<br>
+<br>
 <h4> Tools </h4>
 <a href="https://www.canva.com/"><img src="https://cdn-images-1.medium.com/max/1200/1*A6kkoOVJVpXPWewg8axc5w.png" width="50" height="50"></a>
 <a href="https://www.tableau.com/"><img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" width="55" height="50"></a>
