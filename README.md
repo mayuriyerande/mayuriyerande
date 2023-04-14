@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 -->
 <h4 align="center"> Good to see you here ✨  </h4> 
 <br>
-<br>
 😄 Pronouns: she/her 
 <br>
 📫 How to reach me: mayuriyerande@gmail.com 
