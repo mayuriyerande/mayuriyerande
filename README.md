@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 <br>
 <br>
 <h3> Devops </h3>
-●Git and Github
+● Git and Github
 <br>
-●AWS: EC2,CODEPIPELINE,S3
+● AWS: EC2,CODEPIPELINE,S3
 
 <br>
 <br>
