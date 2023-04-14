@@ -38,11 +38,12 @@ Here are some ideas to get you started:
 <br>
 <h4> Databases </h4>
 <a href=""><img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" height="50"></a>
-<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/2560px-SQLite370.svg.png" height="50"></a>
+<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/2560px-SQLite370.svg.png" height="45"></a>
 <br>
 <br>
 <h4> Devops </h4>
-<h2>_Git and Github_</h2>
+*Git and Github* 
+*AWS: EC2,CODEPIPELINE,S3*
 <br>
 <br>
 <h4> Tools </h4>
