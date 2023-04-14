@@ -22,6 +22,7 @@ Hello there, good to see you here ✨
 
 
 ----
+<head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {
@@ -38,6 +39,7 @@ Hello there, good to see you here ✨
   padding: 5px;
 }
 </style>
+  </head>
 <div class="row">
   <div class="column">
     <h4> Languages </h4>
