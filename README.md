@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <br>
 <h4> Frameworks </h4>
 <a href="https://www.djangoproject.com/"><img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" width="65" height="50"></a>
-<a href="https://www.djangoproject.com/"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvercel.com%2Ftemplates%2Fpython%2Fflask-hello-world&psig=AOvVaw047BWdbC0tSQ8ZLwuQEBKZ&ust=1681579843863000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjimZ7zqf4CFQAAAAAdAAAAABAD" height="50"></a>
+<a href="https://www.djangoproject.com/"><img src="https://miro.medium.com/v2/resize:fit:438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" height="50"></a>
 <br>
 <br>
 <h4> Tools </h4>
