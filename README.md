@@ -37,13 +37,12 @@ Here are some ideas to get you started:
 <br>
 <br>
 <h4> Databases </h4>
-<img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/2560px-SQLite370.svg.png" height="50">
+<a href=""><img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" height="50"></a>
+<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/2560px-SQLite370.svg.png" height="50"></a>
 <br>
 <br>
 <h4> Devops </h4>
-<img src="[https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png](https://www.freecodecamp.org/news/content/images/2022/07/git-github.png)" height="50">
-<img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/2560px-SQLite370.svg.png](https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png)" height="50">
+<h2>_Git and Github_</h2>
 <br>
 <br>
 <h4> Tools </h4>
