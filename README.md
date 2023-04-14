@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <h4> Tools </h4>
 <a href="https://www.canva.com/"><img src="https://cdn-images-1.medium.com/max/1200/1*A6kkoOVJVpXPWewg8axc5w.png" width="50" height="50"></a>
 <a href="https://www.tableau.com/"><img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" width="55" height="50"></a>
-
+<a href="https://www.tableau.com/"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseekvectorlogo.com%2Fpower-bi-vector-logo-svg%2F&psig=AOvVaw2mPRvT8o4uR4q8NyFU0SQn&ust=1681579487284000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLC7t_bxqf4CFQAAAAAdAAAAABAD" width="55" height="50"></a>
 <br>
 <br>
 
