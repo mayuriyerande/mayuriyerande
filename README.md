@@ -64,6 +64,6 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/ class="center" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand" class="center" />
 
 
