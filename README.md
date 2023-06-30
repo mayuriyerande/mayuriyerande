@@ -24,15 +24,6 @@ Here are some ideas to get you started:
 
 ----
 
- <h3> Languages </h3> 
-<a href="https://www.cprogramming.com/"><img src="https://preview.redd.it/31b2ii8hchi31.jpg?auto=webp&s=309fe75e96212cf42c4120ca5adedaef52c41e01" width="50" height="50"></a>
-<a href="https://html.com/"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" width="50" height="50"></a>
-<a href="https://getbootstrap.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="50" height="50"></a>
-<a href="https://www.w3schools.com/css/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="50" height="50"></a>
-<a href="https://www.w3schools.com/js/"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-hq-png-1.png" width="50" height="50"></a>
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="50" height="50"></a>
-<br>
-<br>
  <h3> Development </h3> 
 <a href=""><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="100" height="40"></a>
 <a href=""><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" width="100" height="40"></a>
@@ -45,27 +36,28 @@ Here are some ideas to get you started:
 <br>
 
 <h3> Databases and Tools </h3>
-<a href=""><img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" height="50"></a>
-<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/2560px-SQLite370.svg.png" height="45"></a>
+<a href=""><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" height="50"></a>
+<a href=""><img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" height="45"></a>
+<a href=""><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" width="100" height="40"></a>
+<a href=""><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" width="100" height="40"></a>
 <a href=""><img src="" width="100" height="40"></a>
-<a href=""><img src="" width="100" height="40"></a>
-<a href=""><img src="" width="100" height="40"></a>
+<a href=""><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" width="100" height="40"></a><br>
 <br>
-<br>
+
 <h3> Devops </h3>
-● Git and Github
-<br>
-● AWS: EC2,CODEPIPELINE,S3,Lambda
+<a href=""><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width="100" height="40"></a>
+<a href=""><img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" width="100" height="40"></a><br>
 
 <br>
 <br>
 
 <h4> Connect with me</h4>
-<a href="https://www.linkedin.com/in/mayuriyerande/"><img src="https://static.vecteezy.com/system/resources/previews/009/097/186/original/blue-color-white-background-linkedin-design-logo-sign-symbol-free-vector.jpg" width="50" height="50">
-<a href="https://www.instagram.com/mayuri.yerande/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="50" height="50"></a>
+<a href="https://www.linkedin.com/in/mayuriyerande/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="50" height="50">
+<a href="https://www.instagram.com/mayuri.yerande/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" width="50" height="50"></a>
+
 <br>
 <br>
-<br>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>
 
 
