@@ -36,7 +36,8 @@ Here are some ideas to get you started:
  <h3> Frameworks </h3> 
 <a href="https://www.djangoproject.com/"><img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" width="65" height="50"></a>
 <a href="https://www.djangoproject.com/"><img src="https://miro.medium.com/v2/resize:fit:438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" height="50"></a>
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F537%2F866%2Fpng-transparent-flutter-hd-logo.png&tbnid=KvNVy7WCzWEG2M&vet=12ahUKEwjriun81Or_AhVdkGMGHSQpCOMQMygAegUIARC8AQ..i&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-aztay&docid=_RjUStC4T9O3OM&w=920&h=1143&q=flutter%20logo%20png&ved=2ahUKEwjriun81Or_AhVdkGMGHSQpCOMQMygAegUIARC8AQ" height="50">
+<img src="![image](https://github.com/mayuriyerande/mayuriyerande/assets/100609372/51f6174f-1723-4059-8dbd-f241b41c1df1)
+" height="50">
 <br>
 <br>
 
