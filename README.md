@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 <br>
 <br>
  <h3> Frameworks </h3> 
- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-<a href="https://www.djangoproject.com/"><img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" width="65" height="50"></a>
+
+<a href="https://www.djangoproject.com/"><img src=" ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)" width="65" height="50"></a>
 <a href="https://www.djangoproject.com/"><img src="https://miro.medium.com/v2/resize:fit:438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" height="50"></a>
 <img src="https://commons.wikimedia.org/wiki/File:Google-flutter-logo.png" height="50">
 <br>
