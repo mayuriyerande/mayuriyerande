@@ -61,8 +61,9 @@ Here are some ideas to get you started:
 <h4> Connect with me</h4>
 <a href="https://www.linkedin.com/in/mayuriyerande/"><img src="https://static.vecteezy.com/system/resources/previews/009/097/186/original/blue-color-white-background-linkedin-design-logo-sign-symbol-free-vector.jpg" width="50" height="50">
 <a href="https://www.instagram.com/mayuri.yerande/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="50" height="50"></a>
-
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>
+<br>
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/ class="center" >
 
 
