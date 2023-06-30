@@ -33,25 +33,23 @@ Here are some ideas to get you started:
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="50" height="50"></a>
 <br>
 <br>
- <h3> Frameworks </h3> 
+ <h3> Development </h3> 
+<a href=""><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="100" height="40"></a>
+<a href=""><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" width="100" height="40"></a>
+<a href=""><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" width="100" height="40"></a>
+<a href=""><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" width="100" height="40"></a>
+<a href=""><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" width="100" height="40"></a>
 
-<a href="https://www.cprogramming.com/"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" width="90" height="40"></a>
-<a href="https://www.cprogramming.com/"><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" width="90" height="40"></a>
-<a href=""><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" width="90" height="40"></a>
-
-<img src="" width="80" height="40">
+<a href=""><img src="" width="100" height="40"></a>
 <br>
 <br>
 
-<h3> Databases </h3>
+<h3> Databases and Tools </h3>
 <a href=""><img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" height="50"></a>
 <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/2560px-SQLite370.svg.png" height="45"></a>
-<br>
-<br>
- <h3> Tools </h3> 
-<a href="https://www.canva.com/"><img src="https://cdn-images-1.medium.com/max/1200/1*A6kkoOVJVpXPWewg8axc5w.png" width="50" height="50"></a>
-<a href="https://www.tableau.com/"><img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" width="55" height="50"></a>
-<a href=""><img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" width="75" height="50"></a>
+<a href=""><img src="" width="100" height="40"></a>
+<a href=""><img src="" width="100" height="40"></a>
+<a href=""><img src="" width="100" height="40"></a>
 <br>
 <br>
 <h3> Devops </h3>
