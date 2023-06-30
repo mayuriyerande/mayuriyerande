@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 <br>
  <h3> Frameworks </h3> 
 
-<a href="https://www.cprogramming.com/"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" width="80" height="40"></a>
-<a href="https://www.cprogramming.com/"><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" width="80" height="40"></a>
-<a href=""><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" width="80" height="40"></a>
+<a href="https://www.cprogramming.com/"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" width="90" height="40"></a>
+<a href="https://www.cprogramming.com/"><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" width="90" height="40"></a>
+<a href=""><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" width="90" height="40"></a>
 
 <img src="" width="80" height="40">
 <br>
