@@ -42,14 +42,14 @@ Here are some ideas to get you started:
 <a href=""><img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" width="100" height="40"></a>
 <a href=""><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" width="70" height="40"></a>
 <a href=""><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" width="100" height="40"></a>
-<a href=""><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" width="100" height="40"></a><br>
+<a href=""><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" width="120" height="40"></a><br>
 
 <br>
 <br>
 
 <h4> Connect with me</h4>
-<a href="https://www.linkedin.com/in/mayuriyerande/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="40">
-<a href="https://www.instagram.com/mayuri.yerande/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" width="100" height="40"></a>
+<a href="https://www.linkedin.com/in/mayuriyerande/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="40">
+<a href="https://www.instagram.com/mayuri.yerande/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" width="150" height="40"></a>
 
 <br>
 <br>
